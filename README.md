@@ -1,1 +1,1 @@
-Работа с базами данных: SQLite - 
+Работа с базами данных: SQLite - https://goo.gl/ZHCrEx
